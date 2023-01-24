@@ -8,10 +8,10 @@ parent.postMessage(value, "*")
 
 const scriptsInEvents = {
 
-		async Hud_Event2_Act19(runtime, localVars)
-		{
-			postText(runtime.globalVars.postMsg)
-		}
+	async Hud_Event2_Act6(runtime, localVars)
+	{
+		postText(runtime.globalVars.postMsg)
+	}
 
 };
 
